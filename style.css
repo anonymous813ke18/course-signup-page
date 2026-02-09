@@ -169,5 +169,4 @@ input:not(:placeholder-shown):valid {
 
 input:focus:invalid {
     outline-color: var(--yellow-border);
-    box-shadow: 2px 2px 3px 2px #b4b3b3;
 }
